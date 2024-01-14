@@ -27,6 +27,8 @@ sec = 15
 refresh = 0
 pause = 0
 
+print("----------------")
+
 while True:
     if keyboard.is_pressed("p"):
         keyboard.press_and_release("ctrl+r")
