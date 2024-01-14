@@ -1,3 +1,8 @@
+# DOCUMENTATION
+# While the 'p' key is held down, ctrl+r will be hit every 15 seconds, refreshing any webpage that is open.  
+# These variables can be modified as needed.
+# A counter will keep track of 'refresh' time and 'pause' time.
+
 import keyboard
 import time
 from datetime import timedelta
