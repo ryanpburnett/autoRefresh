@@ -3,6 +3,8 @@
 # These variables can be modified as needed.
 # A counter will keep track of 'refresh' time and 'pause' time.
 
+#issue with ctrl+r not working, is it refresing constantly? figure out underlying issue
+
 import keyboard
 import time
 from datetime import timedelta
