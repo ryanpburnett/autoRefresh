@@ -1,9 +1,5 @@
 # DOCUMENTATION
-# While the 'p' key is held down, ctrl+r will be hit every 15 seconds, refreshing any webpage that is open.  
-# These variables can be modified as needed.
-# A counter will keep track of 'refresh' time and 'pause' time.
-
-#issue with ctrl+r not working, is it refresing constantly? figure out underlying issue
+# Keeps monitor awake.  Presses the shift key every 15 seconds, records how many times key has been pressed.
 
 import keyboard
 import time
