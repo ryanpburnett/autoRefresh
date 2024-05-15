@@ -1,5 +1,5 @@
 # DOCUMENTATION
-# Keeps monitor awake.  Presses the shift key every 15 seconds, records how many times key has been pressed.
+# Keeps monitor awake.  Presses the shift key every 15 seconds (value can be changed in variable "sec"), records how many times key has been pressed.
 
 import keyboard
 import time
